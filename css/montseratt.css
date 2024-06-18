@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'monseratt reg';
+    src: url(../fonts/Montserrat-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'monseratt sem';
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'monseratt bold';
+    src: url(../fonts/Montserrat-Bold.ttf);
+    font-weight: normal;
+    font-style: normal;
+  }
+   
+  .icon-phone:before { content: '\e800'; } /* '' */
+  .icon-location:before { content: '\e801'; } /* '' */
+  .icon-heart:before { content: '\e802'; } /* '' */
+  .icon-upload-cloud-outline:before { content: '\e803'; } /* '' */
+  .icon-chart-bar:before { content: '\e804'; } /* '' */
+  .icon-help:before { content: '\e805'; } /* '' */
+  .icon-thumbs-up:before { content: '\e806'; } /* '' */
+  .icon-group:before { content: '\e807'; } /* '' */
+  .icon-down-open:before { content: '\e808'; } /* '' */
+  .icon-left-open:before { content: '\e809'; } /* '' */
+  .icon-right-open:before { content: '\e80a'; } /* '' */
+  .icon-up-open:before { content: '\e80b'; } /* '' */
+  .icon-down-dir:before { content: '\e80c'; } /* '' */
+  .icon-up-dir:before { content: '\e80d'; } /* '' */
+  .icon-left-dir:before { content: '\e80e'; } /* '' */
+  .icon-right-dir:before { content: '\e80f'; } /* '' */
+  .icon-twitter:before { content: '\f099'; } /* '' */
+  .icon-facebook:before { content: '\f09a'; } /* '' */
+  .icon-github-circled:before { content: '\f09b'; } /* '' */
+  .icon-list-numbered:before { content: '\f0cb'; } /* '' */
+  .icon-mail-alt:before { content: '\f0e0'; } /* '' */
+  .icon-mobile:before { content: '\f10b'; } /* '' */
+  .icon-code:before { content: '\f121'; } /* '' */
+  .icon-rouble:before { content: '\f158'; } /* '' */
+  .icon-youtube-play:before { content: '\f16a'; } /* '' */
+  .icon-instagram:before { content: '\f16d'; } /* '' */
+  .icon-vkontakte:before { content: '\f189'; } /* '' */
+  .icon-file-video:before { content: '\f1c8'; } /* '' */
+  .icon-paper-plane:before { content: '\f1d8'; } /* '' */
+  .icon-chart-line:before { content: '\f201'; } /* '' */

@@ -1,0 +1,22 @@
+*{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        text-decoration: none;
+        outline: none;
+        box-sizing: border-box;
+        font-family: monseratt-reg
+    }
+    
+    .container{
+        width: 1200px;
+        margin: 0 auto;
+    }
+    body{
+        background-color: #FFFFFF;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    
+}
