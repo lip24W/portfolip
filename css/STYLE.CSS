@@ -505,14 +505,12 @@
         justify-content: space-between;
         padding: 100px 120px 10px 120px;
     }
-    .niz .prava p{
-        font-family: "Manrope-r";
-        font-size: 14px;
-    }
+
+    
     .niz .socials i{
-        height: 60px;
-        width: 60px;
-        color: rgb(80, 80, 247);      
+        height: 100px;
+        width: 100px;
+        color: rgb(0, 0, 0);      
     }
     .niz .conf a{
         font-family: "Manrope-r";
