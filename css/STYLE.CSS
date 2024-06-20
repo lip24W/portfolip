@@ -181,6 +181,11 @@
         font-size: 16px;
         margin-top: 20px;
     }
+
+.cards{
+    display: flex;
+    justify-content: center;
+}
     .part {
     display: flex;
     gap: 10px;  
